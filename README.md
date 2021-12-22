@@ -22,9 +22,4 @@ yes/no answers, experimentalists obtain frequencies of seeing for each mean
 photon number per flash. The table 1.1 contains the information as described
 here for three subjects, and data of study by [1].
 
-
-P(n, n) = n
-n
-n!
-e
-−n
+![P (\overline{n}, n) = \frac{\overline{n}^n}{n!} e ^{-\overline{n} ]
