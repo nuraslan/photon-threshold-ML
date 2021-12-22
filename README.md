@@ -11,3 +11,5 @@ et al is explained in the proceeding paragraphs.
 
 
 ![data](https://user-images.githubusercontent.com/51533525/147089120-2001ba22-c808-40c6-a7b3-8e988a9ac2c2.png)
+Figure 1.1: Data for photon threshold experiment for three human subjects
+by [1].
