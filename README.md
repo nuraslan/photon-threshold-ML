@@ -10,4 +10,4 @@ The basic approach for determining the photon threshold number Hecth
 et al is explained in the proceeding paragraphs.
 
 
-![](data.png)
+![data](https://user-images.githubusercontent.com/51533525/147089120-2001ba22-c808-40c6-a7b3-8e988a9ac2c2.png)
