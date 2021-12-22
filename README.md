@@ -8,3 +8,6 @@ this question is typically yes/no [1], [3]. Hecth et al showed that human are
 able to see with the existence of minimum number of 5 − 7 photons.
 The basic approach for determining the photon threshold number Hecth
 et al is explained in the proceeding paragraphs.
+
+
+![](data.png)
