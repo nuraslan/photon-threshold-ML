@@ -13,3 +13,18 @@ et al is explained in the proceeding paragraphs.
 ![data](https://user-images.githubusercontent.com/51533525/147089120-2001ba22-c808-40c6-a7b3-8e988a9ac2c2.png)
 Figure 1.1: Data for photon threshold experiment for three human subjects
 by [1].
+
+
+Each flash of light striking the cornea contains a mean photon number
+given by Poisson distribution as in Eq 1.1. Retina can absorb no more than
+10% [2], but the true portion is not known exactly. By keeping record of
+yes/no answers, experimentalists obtain frequencies of seeing for each mean
+photon number per flash. The table 1.1 contains the information as described
+here for three subjects, and data of study by [1].
+
+
+P(n, n) = n
+n
+n!
+e
+−n
