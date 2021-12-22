@@ -91,3 +91,24 @@ gives the nearest fit to exact and experimental lines. We used only the first
 serie of number of quanta and seeing frequency data in Table 1.1 for S.H.
 and S.S.
 
+**References**
+
+[1] S. Hecth , S. Shlaer and M.H. Pirenne, Energy, Quanta, and Vision,
+Laboratory of Biopkysics, Columbia University, New York, 1942.
+[2] B.Sakitt, Counting Every Quantum, Department of Physiology-Anatomy,
+2570 Life Sciences Building, University of California, Berkeley, 1971
+[3] H. A. Van Der Velden, The Number of Quanta Necessary for the Perception of Light of the Human Eye, Physical Laboratory of the University of
+Utrecth
+[4] H. B. Barlow, Retinal Noise and Absolute Threshold, Physiological Laboratory, Cambridge, England, 1956
+[5] J. Preskill, Quantum Computing and entanglement frontier, 2012, arXiv
+1203.5813
+[6] Teich, Malvin Carl Prucnal, Paul R Vannucci, Giovanni et al., Multiplication noise in the human visual system at threshold, Biological Cybernetics
+44, 1982
+[7] Yau, K.-W., Lamb, T.D., Baylor, D.A., Light-induced fluctuations in
+membrane current of single toad rod outer segments, Nature 269,1977
+[8] Jonathan N. Tinsley, Maxim I. Molodtsov, Robert Prevedel et al., Direct
+detection of a single photon by humans, Nature Communications 7, 2016
+[9] T. F. Ronnow et al, Defining and Detecting Quantum Speed Up, 2014,
+Science
+[10] P.Sekatski, B. Sanguinetti, E. Pomarico et al, Cloning entangled photons
+to scale one can see, Phys.Rev.A, 2010
