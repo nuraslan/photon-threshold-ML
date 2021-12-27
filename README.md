@@ -1,4 +1,4 @@
-# photon-threshold-ML
+# Machine Learning for Psychophysics of Quantum Vision
 The minimum photon number that makes the sensation of seeing has been
 investigated in the previous decades [1], [3], [4], [2]. The common method for
 determining the minimum photon threshold number is doing experiments on
